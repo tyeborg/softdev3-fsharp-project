@@ -6,7 +6,7 @@
 
 **This purpose of this project is to write a program in F# programming language (using Microsoft Visual Studio) while conforming to the given project requirements.**
 
-### Project Requirements:
+**Project Code Requirements**:
 1. Create a class called `Student` that has some properties (e.g., `name`, `surname`, `age`, `student ID` etc.). 
 2. Create a new instance of `Student` where you can add several new students with different values. 
 3. Print the details of the new students that have been added.
