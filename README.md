@@ -22,12 +22,12 @@ Hi, I have found the Student:
 -> (Bob, Smith, 18, 1111)
 ```
 
-## Prerequisites & Installation
+## Prerequisites & Installations
 Install the following:
 * [.NET SDK.](https://dotnet.microsoft.com/en-us/download) The SDK also incudes the Runtime.
 * The [F# extension (Ionide)](https://marketplace.visualstudio.com/items?itemName=Ionide.Ionide-fsharp) from the VS Code Marketplace.
-* Clone this repository by `git clone https://github.com/tyeborg/softdev3-fsharp-project.git`. 
-* Run the program (`Program.fs`) by entering the following command in the command shell:
+
+Clone this repository by `git clone https://github.com/tyeborg/softdev3-fsharp-project.git`. Once the repository is cloned, run the program (`Program.fs`) by entering the following command in the command shell:
 
 ```bash
 dotnet run
