@@ -10,9 +10,7 @@
 * Create a class called `Student` that has some properties (e.g., `name`, `surname`, `age`, `student ID` etc.). 
 * Create a new instance of `Student` where you can add several new students with different values. 
 * Print the details of the new students that have been added.
-
 * Create an array of Student type with some values (e.g., Student (“Bob”, “Smith”, 18, 1111)). By using a for loop that iterates across the array, print all students with their values.
-
 * Moreover, the user should be able to find a specific student based their name, surname or ID and be able to print all their relevant information. 
 For instance, if the student’s first name is “Bob”, then your program should go through the array and see whether or not there is any student with first name “Bob”. If there is one or more students with first name “Bob” then your program should print:
 
@@ -35,12 +33,13 @@ dotnet run
 
 ## Languages & Tools Utilized
 
-<div style="float:left;margin:0 10px 10px 0" markdown="1">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
-     <img src="https://user-images.githubusercontent.com/96035297/186058590-577fb578-5fa9-4f59-a0e3-30cf2aaddb66.png" height="50" width="50"/>
-</div>
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
+  <img src="https://user-images.githubusercontent.com/96035297/186058590-577fb578-5fa9-4f59-a0e3-30cf2aaddb66.png" height="50" width="50"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,dotnet" />
+  </a>
+</p>
 
 ## Project Evaluation
 Marks were gained by meeting basic and advanced requirements. The marking scheme is as follows:
