@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfDyyzrWqmkArXZBWf+MVrrFjkedPXGGbEQ1Ki3uwG+Ryha9ztg94yOzNnNG6s/Sbj5lAvcdzaJaS973uxs3Ww==",
+  "success": true,
+  "projectFilePath": "/Users/tylersupersad/Desktop/softdev3-fsharp-project/softdev3-fsharp-project.fsproj",
+  "expectedPackageFiles": [
+    "/Users/tylersupersad/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
