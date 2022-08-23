@@ -39,6 +39,7 @@ dotnet run
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
+     <img src="https://user-images.githubusercontent.com/96035297/186058590-577fb578-5fa9-4f59-a0e3-30cf2aaddb66.png" height="50" width="50"/>
 </div>
 
 ## Project Evaluation
