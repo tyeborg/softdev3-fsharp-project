@@ -19,9 +19,9 @@ Hi, I have found the Student:
 ## Languages & Tools Utilized
 
 <p>
-     <img style="float:right;padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
-     <img style="float:right;padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
-     <img style="float:right;padding-right:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
+     <img style="float:left;padding-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
+     <img style="float:left;padding-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
+     <img style="float:left;padding-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
 </p>
 
 ## Project Evaluation
