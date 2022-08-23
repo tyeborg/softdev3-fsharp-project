@@ -18,11 +18,11 @@ Hi, I have found the Student:
 
 ## Languages & Tools Utilized
 
-<div style="float:left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50" style="padding-right:10px"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" style="padding-right:10px"/>
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50" style="padding-right:10px"/>
-</div>
+<p float="left">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50" style="padding-right:20px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" style="padding-right:20px"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50" style="padding-right:20px"/>
+</p>
 
 ## Project Evaluation
 Marks were gained by meeting basic and advanced requirements. The marking scheme is as follows:
