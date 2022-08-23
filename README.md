@@ -16,4 +16,22 @@ Hi, I have found the Student:
 -> (Bob, Smith, 18, 1111)
 ```
 
+## Languages & Tools Utilized
 
+<p float="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50" />
+          
+</p>
+
+## Project Evaluation
+Marks were gained by meeting basic and advanced requirements. The marking scheme is as follows:
+* Meets all requirements
+* Has extra yet relevant functionalities
+* Is built based on fundamental concept of Functional Programming
+* Has the correct Code formatting (indentation, naming convention, commenting etc.)
+
+**Grade**: 95.00 / 100.00
+
+<img width="917" alt="Screen Shot 2022-08-23 at 1 29 26 AM" src="https://user-images.githubusercontent.com/96035297/186047611-925588f2-6418-4bab-9803-01c7346ad473.png">
