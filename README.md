@@ -18,16 +18,10 @@ Hi, I have found the Student:
 
 ## Languages & Tools Utilized
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
-     </div>
+<div style="display:flex;padding-left:10px;">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="50" width="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" width="50"/>
 </div>
 
 ## Project Evaluation
